@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.imagetrial.MainActivity" >
+
+    <item
+        android:id="@+id/menu_passpoints_reset"
+        android:title="@string/menu_passpoints_reset"/>
+    <item
+        android:id="@+id/menu_replace_image"
+        android:title="@string/menu_replace_image"/>
+
+</menu>
